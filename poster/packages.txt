@@ -1,0 +1,3 @@
+http://www.brian-amberg.de/uni/poster/
+
+http://mirrors.rit.edu/CTAN/macros/latex/contrib/beamerposter/beamerposter.pdf
